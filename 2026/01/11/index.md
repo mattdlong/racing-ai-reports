@@ -7,4 +7,4 @@ title: "January 11, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Bunbury](bunbury/) | 2 races |
+| [Bunbury](bunbury/) | 3 races |
