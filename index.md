@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Horse Racing Betting Reports
+title: "Racing AI Reports"
 ---
 
-# Horse Racing Betting Reports
+# Racing AI Reports
 
-AI-powered betting analysis for Horse Racing games.
+AI-powered Australian horse racing analysis.
 
-## Seasons
-
-| Year | Reports |
-|------|---------|
-| [2026](2026/) | 31 games |
+| Year | Months |
+|------|--------|
+| [2026](2026/) | 1 months |

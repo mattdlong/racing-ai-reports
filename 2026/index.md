@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "2026 Season"
+title: "2026"
 ---
 
-# 2026 Season
+# 2026
 
-| Month | Reports |
-|-------|---------|
-| [January](01/) | 31 games |
+| Month | Days |
+|-------|------|
+| [January](01/) | 1 days |
