@@ -13,3 +13,4 @@ title: "Bunbury - January 11, 2026"
 | Race 3 | [race_3](race_3.md) |
 | Race 4 | [race_4](race_4.md) |
 | Race 6 | [race_6](race_6.md) |
+| Race 7 | [race_7](race_7.md) |
