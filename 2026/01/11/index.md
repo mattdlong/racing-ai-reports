@@ -9,4 +9,4 @@ title: "January 11, 2026"
 |---------|-------|
 | [Bunbury](bunbury/) | 6 races |
 | [Sha-Tin](sha-tin/) | 5 races |
-| [Turffontein](turffontein/) | 2 races |
+| [Turffontein](turffontein/) | 3 races |
