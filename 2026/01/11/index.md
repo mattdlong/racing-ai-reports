@@ -8,4 +8,4 @@ title: "January 11, 2026"
 | Meeting | Races |
 |---------|-------|
 | [Bunbury](bunbury/) | 6 races |
-| [Sha-Tin](sha-tin/) | 3 races |
+| [Sha-Tin](sha-tin/) | 4 races |
