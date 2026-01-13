@@ -7,4 +7,4 @@ title: "January 14, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Ladbrokes-Geelong](ladbrokes-geelong/) | 3 races |
+| [Ladbrokes-Geelong](ladbrokes-geelong/) | 4 races |
