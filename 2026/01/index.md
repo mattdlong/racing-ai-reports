@@ -12,4 +12,4 @@ title: "January 2026"
 | [January 13](13/) | 1 meetings |
 | [January 14](14/) | 1 meetings |
 | [January 16](16/) | 2 meetings |
-| [January 17](17/) | 2 meetings |
+| [January 17](17/) | 3 meetings |
