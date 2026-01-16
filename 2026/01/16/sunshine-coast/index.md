@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Sunshine-Coast - January 16, 2026"
+---
+
+# Sunshine-Coast
+### January 16, 2026
+
+| Race | Report |
+|------|--------|
+| Race 1 | [race_1](race_1.md) |
