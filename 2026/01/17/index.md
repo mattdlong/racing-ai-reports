@@ -9,4 +9,4 @@ title: "January 17, 2026"
 |---------|-------|
 | [Ascot](ascot/) | 9 races |
 | [Flemington](flemington/) | 10 races |
-| [Rosehill](rosehill/) | 6 races |
+| [Rosehill](rosehill/) | 7 races |
