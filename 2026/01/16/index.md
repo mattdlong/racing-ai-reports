@@ -7,4 +7,4 @@ title: "January 16, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Pakenham](pakenham/) | 6 races |
+| [Pakenham](pakenham/) | 7 races |
