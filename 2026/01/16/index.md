@@ -8,4 +8,4 @@ title: "January 16, 2026"
 | Meeting | Races |
 |---------|-------|
 | [Pakenham](pakenham/) | 8 races |
-| [Sunshine-Coast](sunshine-coast/) | 5 races |
+| [Sunshine-Coast](sunshine-coast/) | 6 races |
