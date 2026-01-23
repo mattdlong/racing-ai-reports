@@ -6,98 +6,59 @@ date: "2026-01-23"
 race_time: "18:15"
 distance: 1100
 class: "Maiden"
-track_condition: "Good 3"
+track_condition: "Good 4"
 field_size: 9
 pace_scenario: "MODERATE"
-selections:
-  - horse: "Invincible Lover"
-    tab_number: 8
-    tier: "VALUE"
-    score: 61.6
-    odds: 5.50
-    win_prob: 0.18
-    edge_pct: -1.0
-    kelly_stake: 0.0
-    bet_type: "EW"
-    ew_ev_pct: 5.8
-    place_prob: 0.53
-generated_at: "2026-01-23T05:45:00Z"
-data_source: "sportsbetform.com.au"
+selections: []
+generated_at: "2026-01-23T07:00:00Z"
 ---
 
 # Pakenham R1 | 1100m Maiden
-Thu 23 Jan | 6:15pm | 9r | Good 3
+Thu 23 Jan | 6:15pm | 9r | Good 4
 
 ## ACTION
 
-**VALUE: #8 INVINCIBLE LOVER @ $5.50 - 0.5u EW**
-
-Place specialist profile (score 2.31) with +5.8% EW EV. Second career start after solid 2nd on debut.
+**NO BET** - All contenders are underlays at current market odds. No positive edge identified.
 
 ## EDGE TABLE
 
-| # | Horse | Odds | Win% | Edge | Place% | Tier | Notes |
-|---|-------|------|------|------|--------|------|-------|
-| 8 | Invincible Lover | 5.50 | 18% | -1% | 53% | VALUE | 2nd debut, place specialist |
-| 11 | Shapenapit | 4.20 | 18% | -24% | 50% | WATCH | 2x2nds, short odds |
-| 4 | Afterberna | 5.50 | 16% | -12% | 40% | WATCH | Maher 2nd start |
-| 9 | Kiwi Harmony | 5.00 | 15% | -25% | 39% | WATCH | Moody, 2nd last start |
-| 5 | Fundamental Nature | 3.90 | 20% | -22% | 48% | WATCH | Maher debutant, fav |
-| 7 | Glisk | 11.00 | 10% | +10% | 24% | WATCH | Moody 2nd start, odds value |
-
-## MARKET NOTES
-
-- **Original Fav Scratched**: #10 Miss Navratilova ($1.75) - market reshuffled
-- **#6 Girl Scout** also scratched - 9 runners remain
-- Market overbroke at 183.5% - suggests weak race, cautious approach
+| # | Horse | Odds | Score | Win% | Edge | Tier | Kelly |
+|---|-------|------|-------|------|------|------|-------|
+| 11 | Shapenapit | $4.20 | 39.3 | 18% | -24% | WATCH | - |
+| 5 | Fundamental Nature | $3.90 | 35.5 | 22% | -14% | WATCH | - |
+| 8 | Invincible Lover | $5.50 | 34.0 | 15% | -18% | WATCH | - |
+| 9 | Kiwi Harmony | $5.00 | 32.0 | 14% | -30% | WATCH | - |
+| 4 | Afterberna | $5.50 | 28.0 | 12% | -34% | PASS | - |
+| 7 | Glisk | $11.00 | 25.0 | 8% | -12% | PASS | - |
 
 ## ANALYSIS
 
-**Speed**: No form times available - maiden race with limited exposed form. Debutants (#1, #5) unknown quantities.
+**Speed**: No established speed figures - 2YO/3YO maiden with limited raceday form.
+**Pace**: MODERATE expected; #5 Fundamental Nature and #4 Afterberna likely forward from mid gates.
+**Class**: Standard country maiden. Ciaron Maher has two runners (#4, #5) suggesting stable confidence.
+**Bias**: Neutral bias expected (LOW confidence). Rail position not stated.
 
-**Pace**: MODERATE expected. Invincible Lover (#8) sat 3-wide on debut, showed tactical speed. Likely 2-3 leaders.
+## KEY CONTENDERS
 
-**Class**: Standard Pakenham maiden. Maher stable (trainers #4, #5) has strong record with young stock. Moody (#7, #9) also noted.
+**#11 SHAPENAPIT** ($4.20) - Most consistent form with 2-5-2 from 3 starts. Two seconds at Mornington 1000m (0.75L, 2.25L beaten). Grahame Begg/Jye McNeil strong combination. Drop to 1100m suits. **Risk**: Wide barrier (9), untested at Pakenham.
 
-**Bias**: Neutral (LOW confidence). No significant track bias detected from available data.
+**#5 FUNDAMENTAL NATURE** ($3.90 FAV) - Debut runner for Ciaron Maher with John Allen aboard. Promising jump outs (2nd twice at 800m-1000m). Well-bred type with good stable support. **Risk**: Debut unknown, rain forecast may impact synthetics-trialled horses.
 
-## SELECTION RATIONALE
+**#8 INVINCIBLE LOVER** ($5.50) - Strong 2nd on debut at Cranbourne 1000m (0.4L). Strong place specialist profile (100% place rate from 1 start). **Risk**: Slight step up in distance, barrier 6 in tight 9-runner field.
 
-**Invincible Lover (#8)** the standout EW play. Only career start produced a 2nd placing, giving 100% place strike rate (strong specialist score of 2.31). At $5.50, the each-way math works: +5.8% EW EV with 53% place probability. Win odds underlay (-1% edge) but place component (+12.6% EV) carries the value. Lloyd Kennewell trains, Zac Spain rides - solid provincial connections.
+## WHY NO BET
 
-The main market rivals #11 Shapenapit and #5 Fundamental Nature are both underlays at current odds despite similar profiles.
+1. **Negative edge across all contenders** - Favourite $3.90 implies 25.6% but fair odds closer to $4.55 (22% true probability)
+2. **Maiden race volatility** - Limited form profiles increase uncertainty significantly
+3. **Weather concern** - Rain forecast; track may deteriorate from Good 4
+4. **Expert tips spread** - Tips across 4 horses (#4, #8, #9, #11) indicating no clear standout
 
-## KEY RISKS
+## MARKET NOTES
 
-1. Single-run sample - place consistency from 1 start is noise
-2. Unknown barrier draws (not in briefing) - could affect position
-3. Maher debutant (#5) may improve sharply, unknown upside
-
-## CONTENDER PROFILES
-
-| # | Horse | Trainer | Starts | Form | Comment |
-|---|-------|---------|--------|------|---------|
-| 8 | Invincible Lover | Kennewell | 1 | 2 | Placed debut, consistent type |
-| 11 | Shapenapit | Begg | 3 | 2-5-2 | Two 2nds, yet to win, underlay |
-| 5 | Fundamental Nature | Maher | 0 | - | Debutant, market support |
-| 4 | Afterberna | Maher | 1 | 4-x | 4th debut, trial before |
-| 9 | Kiwi Harmony | Moody | 3 | 2-6-x-8 | One placing, inconsistent |
-| 7 | Glisk | Moody | 1 | 5 | 5th debut, needs improvement |
-| 3 | Miss Lil | Stockdale | 15 | 3-8-3-3-4 | Exposed, 3 placings, struggling |
-| 2 | Last Piece | Noble | 16 | 6-3-5-7-4-4 | 16 starts no win, 1 place |
-| 1 | Contemplate Kate | Payne | 0 | - | Debutant, outsider |
-
-## EXPERT TIPS
-
-Sources checked: 1
-- Invincible Lover: 1 mention
-- Shapenapit: 1 mention
-- Afterberna: 1 mention
-- Kiwi Harmony: 1 mention
-
-Limited expert coverage - small sample.
+- Market % = 125% (fairly competitive)
+- Favourite: #5 Fundamental Nature $3.90 (debut)
+- Second fav: #11 Shapenapit $4.20 (most consistent)
+- Underlays: All top 4 in market
 
 ---
-*tier: VALUE | ew_ev: +5.8% | place%: 53% | score: 61.6/100*
-
-REPORT_FILE: data/reports/pakenham_race_1.md
+*No bet recommended | Tier: PASS | Data: sportsbetform.com.au*
