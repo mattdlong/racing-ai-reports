@@ -7,5 +7,5 @@ title: "January 24, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Caulfield](caulfield/) | 4 races |
+| [Caulfield](caulfield/) | 5 races |
 | [Randwick](randwick/) | 4 races |
