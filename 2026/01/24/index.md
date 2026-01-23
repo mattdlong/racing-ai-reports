@@ -7,7 +7,7 @@ title: "January 24, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Ascot](ascot/) | 2 races |
+| [Ascot](ascot/) | 3 races |
 | [Caulfield](caulfield/) | 10 races |
 | [Morphettville](morphettville/) | 3 races |
 | [Randwick](randwick/) | 10 races |
