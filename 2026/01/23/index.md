@@ -8,5 +8,5 @@ title: "January 23, 2026"
 | Meeting | Races |
 |---------|-------|
 | [Canterbury](canterbury/) | 7 races |
-| [Gold-Coast](gold-coast/) | 6 races |
+| [Gold-Coast](gold-coast/) | 7 races |
 | [Pakenham](pakenham/) | 8 races |
