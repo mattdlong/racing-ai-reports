@@ -11,4 +11,4 @@ title: "January 24, 2026"
 | [Caulfield](caulfield/) | 10 races |
 | [Morphettville](morphettville/) | 10 races |
 | [Randwick](randwick/) | 10 races |
-| [Sunshine-Coast](sunshine-coast/) | 5 races |
+| [Sunshine-Coast](sunshine-coast/) | 6 races |
