@@ -7,4 +7,4 @@ title: "January 23, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Pakenham](pakenham/) | 4 races |
+| [Pakenham](pakenham/) | 5 races |
