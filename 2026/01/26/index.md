@@ -7,5 +7,5 @@ title: "January 26, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Eagle-Farm](eagle-farm/) | 2 races |
+| [Eagle-Farm](eagle-farm/) | 3 races |
 | [Ladbrokes-Geelong](ladbrokes-geelong/) | 8 races |
