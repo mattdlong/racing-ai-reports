@@ -7,4 +7,4 @@ title: "January 26, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Ladbrokes-Geelong](ladbrokes-geelong/) | 1 races |
+| [Ladbrokes-Geelong](ladbrokes-geelong/) | 2 races |
