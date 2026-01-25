@@ -7,5 +7,5 @@ title: "January 25, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Pinjarra-Scarpside](pinjarra-scarpside/) | 4 races |
+| [Pinjarra-Scarpside](pinjarra-scarpside/) | 5 races |
 | [Sha-Tin](sha-tin/) | 11 races |
