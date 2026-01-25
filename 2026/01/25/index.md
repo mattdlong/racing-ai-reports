@@ -7,4 +7,4 @@ title: "January 25, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Sha-Tin](sha-tin/) | 3 races |
+| [Sha-Tin](sha-tin/) | 4 races |
