@@ -8,62 +8,60 @@ distance: 1440
 class: "Maiden"
 track_condition: "Good 4"
 field_size: 9
-pace_scenario: "MODERATE"
-selections: []
-generated_at: "2026-01-25T05:30:00Z"
+pace_scenario: "SLOW"
+selections:
+  - horse: "Russian Duchess"
+    tab_number: 6
+    tier: "VALUE"
+    score: 52.0
+    odds: 3.90
+    win_prob: 0.20
+    edge_pct: -5.0
+    kelly_stake: 0.0
+    bet_type: "EW"
+generated_at: "2026-01-25T16:30:00Z"
 ---
 
 # Ladbrokes Geelong R1 | 1440m Maiden
-Mon 26 Jan | 1:10pm | 9r | Good 4
+Sun 26 Jan | 1:10pm | 9r | Good 4
 
 ## ACTION
 
-**NO BET** - Weak maiden with short-priced favorite lacking demonstrated form edge. Market heavily favors debutante with only trial form. No value detected across field.
+**NO BET** - Weak maiden with limited reliable form; market prices accurate
 
 ## EDGE TABLE
 
-| # | Horse | Odds | Win% | Fair | Edge | Place% | Tier |
-|---|-------|------|------|------|------|--------|------|
-| 4 | La Divina | $2.35 | 32% | $3.12 | -25% | 65% | PASS |
-| 6 | Russian Duchess | $3.90 | 22% | $4.55 | -14% | 58% | WATCH |
-| 7 | Skydream | $5.50 | 14% | $7.14 | -23% | 34% | PASS |
-| 8 | Succaforyou | $7.00 | 12% | $8.33 | -16% | 34% | PASS |
-| 10 | Venus Shock | $7.00 | 12% | $8.33 | -16% | 32% | WATCH |
-| 5 | Popthebubbly | $15.00 | 6% | $16.67 | -10% | 20% | PASS |
+| # | Horse | Odds | Score | Win% | Edge | Tier | Kelly |
+|---|-------|------|-------|------|------|------|-------|
+| 4 | La Divina | 2.35 | 48 | 30% | -18% | WATCH | - |
+| 6 | Russian Duchess | 3.90 | 52 | 20% | -5% | VALUE | - |
+| 10 | Venus Shock | 7.00 | 50 | 12% | -16% | WATCH | - |
+| 7 | Skydream | 5.50 | 38 | 14% | -23% | PASS | - |
+| 8 | Succaforyou | 7.00 | 45 | 12% | -16% | WATCH | - |
+| 5 | Popthebubbly | 15.00 | 35 | 6% | -10% | PASS | - |
 
 ## ANALYSIS
 
-**Speed**: No reliable speed figures - lightly raced maidens with limited race data. Venus Shock won maiden trial at Bendigo (62.34s/1000m) - best indicator in field.
+**Speed**: No reliable speed figures available - all runners lightly raced with limited times data.
+**Pace**: SLOW expected - no obvious leader, tactical race likely with 1440m an awkward trip.
+**Class**: Bottom-grade maiden at country meeting; very weak formlines to assess.
+**Bias**: Neutral - no significant track bias detected (LOW confidence).
 
-**Pace**: MODERATE expected - no confirmed leaders. Russian Duchess (barrier 1) and Succaforyou (barrier 2) drawn to get favorable runs on rail.
+## SELECTION RATIONALE
 
-**Class**: Provincial maiden ($900 prize) - lowest grade. La Divina and Venus Shock trained by major stables (Eurell, Hayes) but unproven.
+This is a difficult maiden to assess with confidence. **La Divina** (#4) is short-priced favorite off a 6th on debut at Pakenham (1200m), stepping up to 1440m with no form to support - looks under the odds. **Russian Duchess** (#6) has the best profile: 2nd at this course (1312m) last start for Ciaron Maher, draws barrier 1 with J McNeil, and steps up in distance which should suit. **Venus Shock** (#10) is a Hayes debutant who won a trial at Bendigo and has Luke Currie aboard - genuine chance but first-starters at this level are risky propositions.
 
-**Bias**: Neutral bias confidence LOW. Inside barriers (1-3) hold slight advantage at Geelong 1440m.
-
-## CONTENDER NOTES
-
-**#4 La Divina ($2.35)** - Heavily backed favorite, 6th of 12 on debut at Pakenham 1200m (0.75L margin). Step up to 1440m query on debut form. Eurell stable capable but price far too short for demonstrated ability.
-
-**#6 Russian Duchess ($3.90)** - Ciaron Maher filly, 2nd at Geelong (1312m) last start beaten 2.25L. Course experience and inside draw advantages. Best value profile but still negative edge at current odds.
-
-**#10 Venus Shock ($7.00)** - Hayes-trained debutante, won trial at Bendigo impressively. Unknown quantity but trial form suggests ability. Barrier 3 suits. Needs $8.50+ for marginal value.
-
-**#8 Succaforyou ($7.00)** - Most experienced (4 starts, 2 placings). Place specialist score 1.74 suggests better suited to placing than winning. Inner barrier 2 suits but poor latest form (7th).
+The each-way value on Russian Duchess at $3.90/$1.50 is borderline but the short place price ($1.50) offers minimal return. At current odds, no selection clears our betting threshold.
 
 ## KEY RISKS
 
-1. **Unproven field** - No horse has demonstrated clear maiden-winning ability
-2. **Weather factor** - Rain forecast may affect track condition during meeting
-3. **Debutante unknown** - Venus Shock trial-only form creates uncertainty
+1. Debutant Venus Shock could outclass field if ready to race (trial winner, top stable)
+2. Rain forecast may deteriorate track - Russian Duchess 0/1 on Heavy going
 
-## MARKET ASSESSMENT
+## MARKET WATCH
 
-Market percentage: 130% (standard for provincial meeting)
-Favorite implied prob: 42.6% vs estimated 32% = significant overbet
-No overlay detected in top 6 contenders.
+- If Russian Duchess drifts to $5.00+ consider EW
+- If Venus Shock firms below $5.00 suggests stable confidence - AVOID
 
 ---
-*kelly: 0% | ev: N/A | score: <30/100 | verdict: PASS*
-
-REPORT_FILE: data/reports/ladbrokes-geelong_race_1.md
+*kelly: 0% | ev: -5% | score: 52/100*
