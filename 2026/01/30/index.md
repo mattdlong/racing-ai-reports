@@ -7,4 +7,4 @@ title: "January 30, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Cranbourne](cranbourne/) | 4 races |
+| [Cranbourne](cranbourne/) | 5 races |
