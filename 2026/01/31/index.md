@@ -9,6 +9,6 @@ title: "January 31, 2026"
 |---------|-------|
 | [Ascot](ascot/) | 9 races |
 | [Caulfield](caulfield/) | 10 races |
-| [Eagle-Farm](eagle-farm/) | 8 races |
+| [Eagle-Farm](eagle-farm/) | 9 races |
 | [Morphettville](morphettville/) | 1 races |
 | [Rosehill](rosehill/) | 10 races |
