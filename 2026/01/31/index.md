@@ -7,7 +7,7 @@ title: "January 31, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Ascot](ascot/) | 5 races |
+| [Ascot](ascot/) | 6 races |
 | [Caulfield](caulfield/) | 10 races |
 | [Eagle-Farm](eagle-farm/) | 4 races |
 | [Rosehill](rosehill/) | 10 races |
