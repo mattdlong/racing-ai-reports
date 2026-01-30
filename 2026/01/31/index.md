@@ -7,5 +7,5 @@ title: "January 31, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Caulfield](caulfield/) | 9 races |
+| [Caulfield](caulfield/) | 10 races |
 | [Rosehill](rosehill/) | 9 races |
