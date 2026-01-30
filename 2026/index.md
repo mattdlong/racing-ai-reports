@@ -7,4 +7,4 @@ title: "2026"
 
 | Month | Days |
 |-------|------|
-| [January](01/) | 11 days |
+| [January](01/) | 12 days |
