@@ -14,3 +14,4 @@ title: "Eagle-Farm - January 31, 2026"
 | Race 4 | [race_4](race_4.md) |
 | Race 5 | [race_5](race_5.md) |
 | Race 6 | [race_6](race_6.md) |
+| Race 7 | [race_7](race_7.md) |
