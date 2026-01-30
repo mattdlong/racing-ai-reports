@@ -7,5 +7,5 @@ title: "January 30, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Canterbury](canterbury/) | 2 races |
+| [Canterbury](canterbury/) | 3 races |
 | [Cranbourne](cranbourne/) | 8 races |
