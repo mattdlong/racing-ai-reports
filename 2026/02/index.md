@@ -7,4 +7,4 @@ title: "February 2026"
 
 | Date | Meetings |
 |------|----------|
-| [February 7](07/) | 1 meetings |
+| [February 7](07/) | 2 meetings |
