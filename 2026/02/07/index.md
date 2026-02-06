@@ -7,5 +7,5 @@ title: "February 7, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Caulfield](caulfield/) | 8 races |
+| [Caulfield](caulfield/) | 9 races |
 | [Randwick](randwick/) | 6 races |
