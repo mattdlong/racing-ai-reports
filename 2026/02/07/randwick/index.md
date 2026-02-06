@@ -16,3 +16,4 @@ title: "Randwick - February 7, 2026"
 | Race 6 | [race_6](race_6.md) |
 | Race 7 | [race_7](race_7.md) |
 | Race 8 | [race_8](race_8.md) |
+| Race 9 | [race_9](race_9.md) |
