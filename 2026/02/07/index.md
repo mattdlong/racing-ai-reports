@@ -7,7 +7,7 @@ title: "February 7, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Ascot](ascot/) | 4 races |
+| [Ascot](ascot/) | 5 races |
 | [Caulfield](caulfield/) | 10 races |
 | [Doomben](doomben/) | 4 races |
 | [Morphettville](morphettville/) | 5 races |
