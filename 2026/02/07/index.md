@@ -10,5 +10,5 @@ title: "February 7, 2026"
 | [Ascot](ascot/) | 2 races |
 | [Caulfield](caulfield/) | 10 races |
 | [Doomben](doomben/) | 1 races |
-| [Morphettville](morphettville/) | 1 races |
+| [Morphettville](morphettville/) | 2 races |
 | [Randwick](randwick/) | 10 races |
