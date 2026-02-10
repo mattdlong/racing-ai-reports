@@ -9,27 +9,18 @@ class: "Maiden"
 track_condition: "Good 4"
 field_size: 8
 pace_scenario: "MODERATE"
+data_source: "sportsbetform.com.au"
 selections:
   - horse: "Nistirith"
     tab_number: 6
-    tier: "STRONG_VALUE"
-    score: 63.4
-    odds: 14.00
-    win_prob: 0.12
-    edge_pct: 68.0
-    kelly_stake: 1.3
-    bet_type: "EW"
-  - horse: "My Testimony"
-    tab_number: 8
     tier: "VALUE"
-    score: 52.2
-    odds: 17.00
+    score: 50.8
+    odds: 14.00
     win_prob: 0.10
-    edge_pct: 70.0
-    kelly_stake: 1.1
+    edge_pct: 40.0
+    kelly_stake: 0.77
     bet_type: "EW"
-generated_at: "2026-02-10T20:00:00Z"
-data_source: "sportsbetform.com.au"
+generated_at: "2026-02-10T09:00:00Z"
 ---
 
 # Belmont R1 | 1000m Maiden
@@ -37,56 +28,50 @@ Wed 11 Feb | 1:25pm | 8r | Good 4 | Rain
 
 ## ACTION
 
-**STRONG_VALUE: #6 NISTIRITH @ $14.00 - 1.3u EW**
-**VALUE: #8 MY TESTIMONY @ $17.00 - 1.1u EW**
+**EW VALUE: #6 NISTIRITH @ $14.00 - 0.77u EW**
 
 ## EDGE TABLE
 
 | # | Horse | Odds | Score | Win% | Edge | Tier | Kelly |
 |---|-------|------|-------|------|------|------|-------|
-| 6 | Nistirith | $14.00 | 63.4 | 12% | +68% | STRONG_VALUE | 1.3% |
-| 8 | My Testimony | $17.00 | 52.2 | 10% | +70% | VALUE | 1.1% |
-| 3 | Sharpassa | $2.90 | 49.5 | 30% | -13% | WATCH | - |
-| 4 | Bambino Chino | $11.00 | 38.0 | 10% | +10% | WATCH | - |
-| 5 | Gangster Goddess | $1.75 | 25.0 | 20% | -65% | PASS | - |
-| 7 | Working Class Girl | $23.00 | 28.0 | 5% | +15% | PASS | - |
+| 3 | Sharpassa | $2.90 | 45.4 | 33% | -4.3% | VALUE | - |
+| 5 | Gangster Goddess | $1.75 | - | 25% | -56.2% | PASS | - |
+| 6 | Nistirith | $14.00 | 50.8 | 10% | +40.0% | VALUE | 0.77% |
+| 4 | Bambino Chino | $11.00 | - | 10% | +10.0% | WATCH | 0.25% |
+| 8 | My Testimony | $17.00 | - | 6% | +2.0% | PASS | - |
+| 7 | Working Class Girl | $23.00 | - | 4% | -8.0% | PASS | - |
+| 2 | Mojo Mio | $35.00 | - | 3% | +5.0% | PASS | - |
+| 1 | Direct Debit | $51.00 | - | 2% | +2.0% | PASS | - |
 
 ## FIELD ANALYSIS
 
 | # | Horse | Bar | Odds | SpFig | Pace | Class | Bias | Conn | Score | Tier |
 |---|-------|-----|------|-------|------|-------|------|------|-------|------|
-| 1 | Direct Debit | 6 | $51 | 62 | OK | 60 | 0% | Neutral | 22 | PASS |
-| 2 | Mojo Mio | 8 | $35 | 55 | OK | 60 | 0% | Neutral | 20 | PASS |
-| 3 | Sharpassa | 2 | $2.90 | 72 | GOOD | 60 | 0% | Neutral | 49.5 | WATCH |
-| 4 | Bambino Chino | 4 | $11 | 68 | OK | 60 | 0% | Neutral | 38 | WATCH |
-| 5 | Gangster Goddess | 1 | $1.75 | 64 | OK | 60 | 0% | Hot (Pike) | 25 | PASS |
-| 6 | Nistirith | 7 | $14 | 67 | OK | 60 | 0% | Neutral | 63.4 | STRONG_VALUE |
-| 7 | Working Class Girl | 5 | $23 | 58 | OK | 60 | 0% | Neutral | 28 | PASS |
-| 8 | My Testimony | 3 | $17 | 69 | OK | 60 | 0% | Neutral | 52.2 | VALUE |
+| 1 | Direct Debit | 6 | $51 | 72 | OK | 60 | 0% | Neutral | 22 | PASS |
+| 2 | Mojo Mio | 8 | $35 | 68 | OK | 60 | 0% | Neutral | 25 | PASS |
+| 3 | Sharpassa | 2 | $2.90 | 83 | GOOD | 60 | 0% | Neutral | 45 | VALUE |
+| 4 | Bambino Chino | 4 | $11 | 80 | OK | 60 | 0% | Neutral | 38 | WATCH |
+| 5 | Gangster Goddess | 1 | $1.75 | 75 | OK | 60 | 0% | Hot | 35 | WATCH |
+| 6 | Nistirith | 7 | $14 | 78 | OK | 60 | 0% | Neutral | 51 | VALUE |
+| 7 | Working Class Girl | 5 | $23 | 74 | OK | 60 | 0% | Neutral | 28 | PASS |
+| 8 | My Testimony | 3 | $17 | 77 | OK | 60 | 0% | Neutral | 32 | WATCH |
 
 ## ANALYSIS
 
-**Speed**: Sharpassa holds best figure (72) off Bunbury maiden win in 59.37. My Testimony (69) ran fastest raw time (58.20) at Bunbury. Nistirith (67) competitive with Mt Barker 2nd in 59.11.
-**Pace**: MODERATE shape expected. Small field, Gangster Goddess and Sharpassa likely to press. No genuine leader creates tempo uncertainty.
-**Class**: All maidens, level playing field. Sharpassa only proven winner (1/2). Bambino Chino 0/6 exposes limitations despite decent trials.
-**Bias**: Neutral bias, low confidence. Good 4 with rain - potential for track deterioration. Gangster Goddess has ZERO good track form (all soft/heavy).
+**Speed**: Sharpassa holds best figure (83) from Bunbury 1000m win in 59.37s. Bambino Chino next (80) from same race 2nd. Gap to rest of field.
+**Pace**: MODERATE expected. No confirmed leader; Sharpassa and Bambino Chino likely to press forward. Should suit on-pace types.
+**Class**: All maidens. Sharpassa the only race winner (won Bunbury MDN last start). Nistirith has won trial at this track, consistent placer in races.
+**Bias**: No significant bias detected (LOW confidence). True rail. Rain forecast may shift ground toward soft but currently Good 4.
 
 ## SELECTION RATIONALE
 
-**#6 Nistirith** is the standout value play. Place specialist score of 2.60 (75% career place rate from 4 starts: 2nd-2nd-2nd-4th) at massive overs. Won a Belmont trial on 5 Jan, 2nd at Mt Barker last start beaten just 0.56L. At $14, the EW value is enormous (+61% EW EV) qualifying via both Path A (value overlay) and Path B (place specialist). The market is fixated on the Pike/Gangster Goddess hype and Sharpassa's maiden win, leaving Nistirith criminally unders-rated.
-
-**#8 My Testimony** secondary play at $17 via Path C (longshot place value, +50% EW EV). Fastest raw 1000m time in field (58.20) and 2nd at Bunbury 11 Jan. Inconsistent but each-way at the price is positive EV.
+Nistirith represents the best value in this race at $14.00 each-way. She is a STRONG PLACE SPECIALIST (3.125 score, 75% place rate from 4 career starts vs 24% expected). Won a trial at Belmont 1000m, 2nd at Mt Barker last start beaten 0.56L, 2nd in two prior starts at Bunbury. The EW evaluation qualifies via both Path A (Value Overlay: EW EV +38%, place prob 32%) and Path B (Place Specialist: score 1.50). While Sharpassa is the most likely winner on raw ability, she is under the odds at $2.90 with fair value at $3.03. Gangster Goddess is a massive underlay at $1.75 - 181 days off racing, untried on good ground, all form on soft. Pike booking is the only positive.
 
 ## KEY RISKS
 
-1. **Nistirith**: Wide barrier (7/8), 0 wins from 4 starts (can she convert?), stepping from Mt Barker/country to Belmont metro
-2. **Gangster Goddess upset**: If Pike has her ready off a long spell, the $1.75 fav could dominate - but 181 days off with no trial is a genuine concern
-
-## RED FLAGS
-
-- #5 Gangster Goddess: 181 days off, no trial, zero good track form, untried at 1000m = **MASSIVE UNDERLAY at $1.75**
-- #3 Sharpassa: Most likely winner but $2.90 offers no edge (-13%). Fair odds $3.33.
+1. Nistirith wide barrier (7) in small field - needs luck from out
+2. Rain forecast could shift track to soft, potentially benefiting Gangster Goddess who has all form on soft ground
+3. Sharpassa the clear class runner - could win unchallenged if allowed easy lead
 
 ---
-*#6 kelly: 1.3% | ew_ev: +61.1% | score: 63.4/100*
-*#8 kelly: 1.1% | ew_ev: +50.0% | score: 52.2/100*
+*kelly: 0.77% | ev: +$0.38/u | score: 50.8/100*
