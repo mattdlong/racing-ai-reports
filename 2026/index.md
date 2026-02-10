@@ -8,4 +8,4 @@ title: "2026"
 | Month | Days |
 |-------|------|
 | [January](01/) | 12 days |
-| [February](02/) | 1 days |
+| [February](02/) | 2 days |
