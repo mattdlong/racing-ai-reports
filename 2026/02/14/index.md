@@ -10,4 +10,4 @@ title: "February 14, 2026"
 | [Eagle-Farm](eagle-farm/) | 2 races |
 | [Flemington](flemington/) | 2 races |
 | [Morphettville](morphettville/) | 2 races |
-| [Randwick](randwick/) | 6 races |
+| [Randwick](randwick/) | 7 races |
