@@ -7,4 +7,4 @@ title: "February 14, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Randwick](randwick/) | 1 races |
+| [Randwick](randwick/) | 2 races |
