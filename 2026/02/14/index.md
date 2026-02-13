@@ -9,5 +9,5 @@ title: "February 14, 2026"
 |---------|-------|
 | [Eagle-Farm](eagle-farm/) | 7 races |
 | [Flemington](flemington/) | 8 races |
-| [Morphettville](morphettville/) | 7 races |
+| [Morphettville](morphettville/) | 8 races |
 | [Randwick](randwick/) | 8 races |
