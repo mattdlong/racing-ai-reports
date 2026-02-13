@@ -7,4 +7,4 @@ title: "February 13, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Cranbourne](cranbourne/) | 6 races |
+| [Cranbourne](cranbourne/) | 7 races |
