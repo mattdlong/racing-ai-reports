@@ -7,5 +7,5 @@ title: "February 13, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Canterbury](canterbury/) | 3 races |
+| [Canterbury](canterbury/) | 4 races |
 | [Cranbourne](cranbourne/) | 7 races |
