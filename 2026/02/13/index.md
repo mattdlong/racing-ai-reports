@@ -9,4 +9,4 @@ title: "February 13, 2026"
 |---------|-------|
 | [Canterbury](canterbury/) | 8 races |
 | [Cranbourne](cranbourne/) | 7 races |
-| [Sunshine-Coast](sunshine-coast/) | 2 races |
+| [Sunshine-Coast](sunshine-coast/) | 3 races |
