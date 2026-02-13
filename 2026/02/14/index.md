@@ -8,4 +8,5 @@ title: "February 14, 2026"
 | Meeting | Races |
 |---------|-------|
 | [Flemington](flemington/) | 1 races |
+| [Morphettville](morphettville/) | 1 races |
 | [Randwick](randwick/) | 5 races |
