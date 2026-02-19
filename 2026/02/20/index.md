@@ -9,4 +9,4 @@ title: "February 20, 2026"
 |---------|-------|
 | [Canterbury](canterbury/) | 3 races |
 | [Cranbourne](cranbourne/) | 3 races |
-| [Launceston](launceston/) | 2 races |
+| [Launceston](launceston/) | 3 races |
