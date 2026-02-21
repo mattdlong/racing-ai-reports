@@ -10,4 +10,4 @@ title: "February 21, 2026"
 | [Caulfield](caulfield/) | 5 races |
 | [Doomben](doomben/) | 6 races |
 | [Morphettville](morphettville/) | 6 races |
-| [Rosehill](rosehill/) | 7 races |
+| [Rosehill](rosehill/) | 8 races |
