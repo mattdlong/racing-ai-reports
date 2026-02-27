@@ -7,7 +7,7 @@ title: "February 28, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Ascot](ascot/) | 4 races |
+| [Ascot](ascot/) | 5 races |
 | [Eagle-Farm](eagle-farm/) | 7 races |
 | [Flemington](flemington/) | 10 races |
 | [Morphettville](morphettville/) | 8 races |
