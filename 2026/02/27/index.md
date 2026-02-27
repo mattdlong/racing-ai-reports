@@ -7,4 +7,4 @@ title: "February 27, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Canterbury](canterbury/) | 1 races |
+| [Canterbury](canterbury/) | 2 races |
