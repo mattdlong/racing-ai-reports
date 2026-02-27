@@ -8,4 +8,4 @@ title: "February 28, 2026"
 | Meeting | Races |
 |---------|-------|
 | [Flemington](flemington/) | 8 races |
-| [Randwick](randwick/) | 2 races |
+| [Randwick](randwick/) | 3 races |
