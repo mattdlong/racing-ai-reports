@@ -10,5 +10,5 @@ title: "February 28, 2026"
 | [Ascot](ascot/) | 3 races |
 | [Eagle-Farm](eagle-farm/) | 5 races |
 | [Flemington](flemington/) | 10 races |
-| [Morphettville](morphettville/) | 6 races |
+| [Morphettville](morphettville/) | 7 races |
 | [Randwick](randwick/) | 9 races |
