@@ -9,4 +9,4 @@ title: "February 27, 2026"
 |---------|-------|
 | [Canterbury](canterbury/) | 6 races |
 | [Cranbourne](cranbourne/) | 3 races |
-| [Sunshine-Coast](sunshine-coast/) | 2 races |
+| [Sunshine-Coast](sunshine-coast/) | 3 races |
