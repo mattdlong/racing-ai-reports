@@ -9,4 +9,5 @@ title: "February 28, 2026"
 |---------|-------|
 | [Eagle-Farm](eagle-farm/) | 1 races |
 | [Flemington](flemington/) | 8 races |
+| [Morphettville](morphettville/) | 1 races |
 | [Randwick](randwick/) | 3 races |
