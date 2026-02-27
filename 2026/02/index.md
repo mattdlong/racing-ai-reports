@@ -14,4 +14,4 @@ title: "February 2026"
 | [February 20](20/) | 3 meetings |
 | [February 21](21/) | 4 meetings |
 | [February 27](27/) | 3 meetings |
-| [February 28](28/) | 4 meetings |
+| [February 28](28/) | 5 meetings |
