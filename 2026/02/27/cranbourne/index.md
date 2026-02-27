@@ -15,3 +15,4 @@ title: "Cranbourne - February 27, 2026"
 | Race 5 | [race_5](race_5.md) |
 | Race 6 | [race_6](race_6.md) |
 | Race 7 | [race_7](race_7.md) |
+| Race 8 | [race_8](race_8.md) |
