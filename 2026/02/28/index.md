@@ -7,5 +7,6 @@ title: "February 28, 2026"
 
 | Meeting | Races |
 |---------|-------|
+| [Eagle-Farm](eagle-farm/) | 1 races |
 | [Flemington](flemington/) | 8 races |
 | [Randwick](randwick/) | 3 races |
