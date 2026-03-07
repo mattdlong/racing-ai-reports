@@ -7,6 +7,6 @@ title: "March 7, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Eagle-Farm](eagle-farm/) | 6 races |
+| [Eagle-Farm](eagle-farm/) | 7 races |
 | [Flemington](flemington/) | 7 races |
 | [Randwick](randwick/) | 8 races |
