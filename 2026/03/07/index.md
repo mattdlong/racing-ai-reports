@@ -9,4 +9,4 @@ title: "March 7, 2026"
 |---------|-------|
 | [Eagle-Farm](eagle-farm/) | 4 races |
 | [Flemington](flemington/) | 4 races |
-| [Randwick](randwick/) | 4 races |
+| [Randwick](randwick/) | 5 races |
