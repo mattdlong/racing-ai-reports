@@ -8,6 +8,7 @@ title: "Flemington - March 7, 2026"
 
 | Race | Report |
 |------|--------|
+| Race 10 | [race_10](race_10.md) |
 | Race 3 | [race_3](race_3.md) |
 | Race 4 | [race_4](race_4.md) |
 | Race 5 | [race_5](race_5.md) |
