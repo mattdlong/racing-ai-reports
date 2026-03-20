@@ -7,4 +7,4 @@ title: "March 20, 2026"
 
 | Meeting | Races |
 |---------|-------|
-| [Launceston](launceston/) | 1 races |
+| [Launceston](launceston/) | 2 races |
